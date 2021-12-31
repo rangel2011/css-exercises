@@ -18,3 +18,9 @@ button {
   font-size: small;
   text-align: center;
 }
+
+button:hover {
+  font-size: x-small;
+  cursor: pointer;
+}
+
